@@ -52,5 +52,3 @@ When you no longer need this sample application running live, you can delete it 
 1. Navigate to the sample app
 1. Choose "Settings"->"Destroy"
 
-**Note: If you don't delete your app, charges for the use of DigitalOcean services will continue to accrue.**# digitalocean-docker-template
-# digitalocean-docker-template
